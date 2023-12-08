@@ -93,9 +93,8 @@ Please adhere to this project's `code of conduct`.
 
 | **Ahmed B.Ramzy (AKA RAMZY)** | **Ashraf Atef (AKA Ashraf)** |
 |---|---|
-|(https://www.github.com/RamzyAR7)
+|[@Ahmed Ramzy](https://www.github.com/RamzyAR7) | [@Ashraf Atef](https://www.github.com/Ashraf-Atef1)
 ![Ahmed Ramzy](https://static.wixstatic.com/media/222d15_038fc869803a4ddbb67cb0bc7f53f04b~mv2.png/v1/crop/x_0,y_38,w_1232,h_1232/fill/w_600,h_600,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/me2.png) 
-| (https://www.github.com/Ashraf-Atef1)
-![Ashraf Atef]() |
+|![Ashraf Atef]() |
 | Ahmed Bassem Ramzy is currently thriving as a Health Ministry health inspector.Driven by an unwavering passion for the tech industry, Ahmed aspires to establish a prominent presence as a Software Engineer. With a remarkable history of accomplishments, Ahmed Ramzy stands out for his exceptional ability to streamline routine processes through software development, enabling faster data input. Additionally, his instrumental contribution to the construction of a comprehensive employee database, designed for efficient information retrieval, showcases his dedication to optimizing operational efficiency. Continuously pushing the boundaries of technology, Ahmed Ramzy remains steadfast in his pursuit of excellence and innovation within the tech realm. |  |
 
