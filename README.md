@@ -4,7 +4,7 @@
 This project is a simple UNIX command interpreter, inspired by the original Unix shell.
 
 
-![Logo](https://github.com/RamzyAR7/simple_shell/blob/main/11ownload.jpeg)
+![Logo](https://github.com/RamzyAR7/simple_shell/blob/main/Images/11ownload.jpeg)
 
 
 
@@ -53,16 +53,6 @@ To run tests, run the following command
 ```bash
   gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 ```
-
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
 
 ## Tasks
 
