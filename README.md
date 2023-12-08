@@ -4,7 +4,7 @@
 This project is a simple UNIX command interpreter, inspired by the original Unix shell.
 
 
-![Logo](https://github.com/RamzyAR7/simple_shell/blob/main/download.png)
+![Logo](https://github.com/RamzyAR7/simple_shell/blob/main/11ownload.jpeg)
 
 
 
