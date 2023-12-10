@@ -20,7 +20,7 @@ Group work
 Learning how to learn
 
 ## Background Context
-The goal of this project is to write a simple UNIX command interpreter. It's an opportunity to apply your knowledge of C programming, understand how a shell works, and enhance your skills in team collaboration
+The goal of this project is to write a simple UNIX command interpreter. It's an opportunity to apply your knowledge of C programming, understand how a shell works, and enhance your skills in team collaboration.
 
 ## Important Note from Julien
 Julien emphasizes the importance of understanding the framework, not copying solutions, and learning how to walk toward the solution instead of memorizing it. Collaboration is encouraged, but both partners are responsible for the code pushed to GitHub. Cheating, plagiarism, and shortcuts are strongly discouraged.
