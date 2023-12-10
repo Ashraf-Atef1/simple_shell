@@ -41,7 +41,7 @@ Suspension of process execution until a child terminates
 Understanding EOF (end-of-file)
 
 ## Output
-Program output must match sh (/bin/sh) for both normal and error output
+Program output must match sh (/bin/sh) for both normal and error output.
 ## Made for ALX SE Program
 
 
