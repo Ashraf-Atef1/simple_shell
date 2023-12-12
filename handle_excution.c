@@ -58,9 +58,9 @@ int handle_error(char *first_sigment, char *path)
 	char error[1024];
 
 	_strcpy(error, "./hsh: line 1: ");
-	if (!Environment[0] || !*Environment[0] ||
-		_strcmp(Environment[0], "_=") == 0 ||
-		!_strchr(Environment[0], '=') || _strlen((char *)Environment) < 5)
+	if (!Environment[1] || !*Environment[1] ||
+		_strstr(Environment[1], "_=") == Environment[1] ||
+		!_strchr(Environment[1], '=') || _strlen((char *)Environment) < 5)
 	{
 		_strcpy(error, "./hsh: 1: ");
 		_strcpy(error + _strlen(error), first_sigment);
