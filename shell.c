@@ -43,9 +43,9 @@ void check_file_mode(char *filename, int *fd, int *active_mode)
 	}
 	else
 	{
-		print(STDERR_FILENO, "./hsh: 0: cannot open ",
-			  filename, ": No such file\n", NULL);
-		exit(2);
+		print(STDERR_FILENO, "./hsh: 0: Can't open ",
+			  filename, "\n", NULL);
+		exit(127);
 	}
 }
 /**
